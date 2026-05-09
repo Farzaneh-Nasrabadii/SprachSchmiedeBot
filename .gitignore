@@ -10,3 +10,4 @@ data/__pycache__/
 .ruff_cache/
 *.log
 poetry.lock  # بعداً commit می‌کنیم، فعلاً نگه داریم
+venv/
